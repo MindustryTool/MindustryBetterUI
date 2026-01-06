@@ -6,3 +6,4 @@
    required, component life-cycle
 -  Reactive State Management: State changes trigger UI updates, eliminating manual widget updates
 -  Hooks: Component life-cycle hooks (init, update, draw, dispose, custom) for custom behavior
+-  Css like syntax for styling components
