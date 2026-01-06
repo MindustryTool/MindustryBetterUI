@@ -1,5 +1,9 @@
 # MindustryBetterUI
 
+## About
+
+MindustryBetterUI is a modern UI library built on top of Mindustry / Anuken Arc, designed to dramatically improve developer experience and UI scalability. Its architecture is inspired by React.js and Flutter, bringing declarative UI, reactive state, and reusable components into the Mindustry ecosystem.
+
 ## Feature
 
 -  Component-Based UI (Reusable Components): UI components as plain Java classes, explicit props + state, no inheritance from Table
